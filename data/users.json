@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password": "$2y$10$rJzKLfo31cJCbXeRDS9KgO2j8EyqVFPjwWcHyZLA\/rWXlCH\/0RgNC",
+        "role": "admin",
+        "created_at": 1746911500
+    },
+    "Leader1000@": {
+        "password": "$2y$10$Uhba2.76nhBbN4pkMfqXz.035LRgtsLTNv7NnOsy95Ux8lwffXCo6",
+        "role": "user",
+        "created_at": 1746911778
+    }
+}
